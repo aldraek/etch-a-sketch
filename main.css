@@ -5,3 +5,13 @@ html {
 h1 {
   color: white;
 }
+
+.buttons {
+  margin: 0 auto;
+  height: 50px;
+}
+
+.button {
+  display: inline-block;
+  margin-right:5px;
+}
